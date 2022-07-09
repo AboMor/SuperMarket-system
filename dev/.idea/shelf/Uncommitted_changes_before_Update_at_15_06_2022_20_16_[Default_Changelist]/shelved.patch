@@ -1,0 +1,287 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n<<<<<<< HEAD\r\n    <list default=\"true\" id=\"830d6d3e-ba04-4a59-8c02-8f2e4e3118a9\" name=\"Changes\" comment=\"add set current shift to employee warehouse entering the system\" />\r\n=======\r\n    <list default=\"true\" id=\"15fb206b-ea24-4ae5-b36c-3131c98737fc\" name=\"Changes\" comment=\"debugging add product to order\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/DemandOrderMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/DemandOrderMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/FixedOrderMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/FixedOrderMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/OrderMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/OrderMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMenuView.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMenuView.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/ViewModel/MainMenuViewModel.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/ViewModel/MainMenuViewModel.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/FixedOrderMenuViewModel.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/FixedOrderMenuViewModel.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/SupplierFixedOrderViewModel.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/SupplierFixedOrderViewModel.java\" afterDir=\"false\" />\r\n    </list>\r\n>>>>>>> bdf07786d7914e9a44e72840001c1bcb4976ee6a\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"29sxcZR0KFcLKVs17diYz7LJSWl\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"Git.Branch.Popup.ShowAllRemotes\" value=\"true\" />\r\n    <property name=\"TODO_SCOPE\" value=\"All Places\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\src\\DataAccessLayer\" />\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\src\\BusinessLayer\" />\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\src\\ServiceLayer\" />\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\src\\Presentation\\Model\" />\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\src\\Presentation\\ViewModel\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\\Test\" />\r\n      <recent name=\"C:\\Users\\User\\Desktop\\adss_group_f\\dev\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Presentation.Main\" />\r\n      <module name=\"ADSS_Project_GroupF\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Presentation.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <created>1653915674101</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1653915674101</updated>\r\n      <workItem from=\"1653915680517\" duration=\"3735000\" />\r\n      <workItem from=\"1653920124608\" duration=\"2291000\" />\r\n      <workItem from=\"1653978895837\" duration=\"9061000\" />\r\n      <workItem from=\"1653989854718\" duration=\"12459000\" />\r\n      <workItem from=\"1654108009992\" duration=\"3784000\" />\r\n      <workItem from=\"1654157695714\" duration=\"13770000\" />\r\n      <workItem from=\"1654615406077\" duration=\"4657000\" />\r\n      <workItem from=\"1654623085041\" duration=\"3008000\" />\r\n      <workItem from=\"1654688288660\" duration=\"785000\" />\r\n      <workItem from=\"1654877559632\" duration=\"1638000\" />\r\n      <workItem from=\"1654931772057\" duration=\"6522000\" />\r\n      <workItem from=\"1655042819504\" duration=\"232000\" />\r\n      <workItem from=\"1655234644630\" duration=\"405000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add and remove brances functionality , fix load data of employees\">\r\n      <created>1654679773410</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654679773410</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"fix menues\">\r\n      <created>1654686306006</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654686306006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"fix menus &amp; fix bug drivers as2\">\r\n      <created>1654687874434</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654687874434</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"sorting diagrams\">\r\n      <created>1654874411854</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654874411854</updated>\r\n    </task>\r\n    <task id=\"LOCAL\u200E00005\" summary=\"fixed menus\">\r\n      <created>1654965946201</created>\r\n      <option name=\"number\" value=\"LOCAL\u200E00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL\u200E00005\" />\r\n      <updated>1654965946201</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Add number to employee -u\">\r\n      <created>1654973835173</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654973835173</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"added number to employee without load errors thorws -u\">\r\n      <created>1654977485363</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654977485363</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"print HQ &amp; set in shift or not\">\r\n      <created>1655038913977</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655038913977</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"grant access to supplier menu\">\r\n      <created>1655039310191</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655039310191</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"add more data to employee module\">\r\n      <created>1655041021421</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655041021421</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"fix menus with first init and employee exist\">\r\n      <created>1655044498168</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655044498168</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"debugging update order\">\r\n      <created>1655202466328</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655202466328</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"13\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"add and remove brances functionality , fix load data of employees\" />\r\n    <MESSAGE value=\"fix menues\" />\r\n    <MESSAGE value=\"fix menus &amp; fix bug drivers as2\" />\r\n    <MESSAGE value=\"sorting diagrams\" />\r\n    <MESSAGE value=\"fixed menus\" />\r\n    <MESSAGE value=\"Add number to employee -u\" />\r\n    <MESSAGE value=\"added number to employee without load errors thorws -u\" />\r\n    <MESSAGE value=\"print HQ &amp; set in shift or not\" />\r\n    <MESSAGE value=\"grant access to supplier menu\" />\r\n    <MESSAGE value=\"add more data to employee module\" />\r\n    <MESSAGE value=\"fix menus with first init and employee exist\" />\r\n    <MESSAGE value=\"debugging update order\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"debugging update order\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java</url>\r\n          <line>42</line>\r\n          <option name=\"timeStamp\" value=\"176\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/EmployeeModule/controllers/ShiftController.java</url>\r\n          <line>214</line>\r\n          <option name=\"timeStamp\" value=\"218\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Presentation/ViewModel/InventoryViewModel/DamagedItemViewModel.java</url>\r\n          <line>74</line>\r\n          <option name=\"timeStamp\" value=\"232\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/ApplicationFacade.java</url>\r\n          <line>189</line>\r\n          <option name=\"timeStamp\" value=\"236\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/DeliveryFacade.java</url>\r\n          <line>180</line>\r\n          <option name=\"timeStamp\" value=\"243\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/DeliveryFacade.java</url>\r\n          <line>238</line>\r\n          <option name=\"timeStamp\" value=\"246\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/Objects/SiteDoc.java</url>\r\n          <line>116</line>\r\n          <option name=\"timeStamp\" value=\"251\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/ApplicationFacade.java</url>\r\n          <line>894</line>\r\n          <option name=\"timeStamp\" value=\"252\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/DataAccessLayer/DeliveryModuleDal/DControllers/SiteDocMapper.java</url>\r\n          <line>104</line>\r\n          <option name=\"timeStamp\" value=\"253\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/Objects/SiteDoc.java</url>\r\n          <line>125</line>\r\n          <option name=\"timeStamp\" value=\"255\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Presentation/Model/SupplierModel/SupplierModel.java</url>\r\n          <line>420</line>\r\n          <option name=\"timeStamp\" value=\"256\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/DemandOrder.java</url>\r\n          <line>67</line>\r\n          <option name=\"timeStamp\" value=\"257\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java</url>\r\n          <line>40</line>\r\n          <option name=\"timeStamp\" value=\"260\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n    <pin-to-top-manager>\r\n      <pinned-members>\r\n        <PinnedItemInfo parentTag=\"java.util.concurrent.ConcurrentHashMap$MapEntry\" memberName=\"value\" />\r\n        <PinnedItemInfo parentTag=\"java.lang.Integer\" memberName=\"value\" />\r\n        <PinnedItemInfo parentTag=\"java.util.HashMap$Node\" memberName=\"value\" />\r\n      </pinned-members>\r\n    </pin-to-top-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/dev$Main.ic\" NAME=\"Main Coverage Results\" MODIFIED=\"1654687135270\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>Presentation.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 777ce78528992d297186eb57ef36c11112a86361)
++++ b/.idea/workspace.xml	(date 1655313264462)
+@@ -4,22 +4,25 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-<<<<<<< HEAD
+-    <list default="true" id="830d6d3e-ba04-4a59-8c02-8f2e4e3118a9" name="Changes" comment="add set current shift to employee warehouse entering the system" />
+-=======
+-    <list default="true" id="15fb206b-ea24-4ae5-b36c-3131c98737fc" name="Changes" comment="debugging add product to order">
++    <list default="true" id="7bff4f8d-b05e-4987-990d-e6f7d9b1919d" name="Default Changelist" comment="debugging inventory Views">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/SupplierView/DemandOrderMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/SupplierView/DemandOrderMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/SupplierView/FixedOrderMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/SupplierView/FixedOrderMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/SupplierView/OrderMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/SupplierView/OrderMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMenuView.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/ViewModel/MainMenuViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/ViewModel/MainMenuViewModel.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/FixedOrderMenuViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/FixedOrderMenuViewModel.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/SupplierFixedOrderViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/ViewModel/SupplierViewModel/SupplierFixedOrderViewModel.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Test/ApplicationFacadeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/ApplicationFacadeTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Test/Tests/DeliveryFacadeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Tests/DeliveryFacadeTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Test/Tests/SiteControllerTest.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/ApplicationFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/ApplicationFacade.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/Controllers/StockShortnessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/Controllers/StockShortnessController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/DeliveryFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/DeliveryModule/DeliveryFacade.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/EmployeeModule/EmployeeFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/EmployeeModule/EmployeeFacade.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/EmployeeModule/controllers/BranchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/EmployeeModule/controllers/BranchController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/OrderController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/SupplierFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/SupplierFacade.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/DataAccessLayer/DeliveryModuleDal/DControllers/DalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccessLayer/DeliveryModuleDal/DControllers/DalController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/DataAccessLayer/DeliveryModuleDal/DControllers/TruckMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccessLayer/DeliveryModuleDal/DControllers/TruckMapper.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/DataAccessLayer/EmployeesModuleDal/Mappers/BranchMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccessLayer/EmployeesModuleDal/Mappers/BranchMapper.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/DataAccessLayer/EmployeesModuleDal/Mappers/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccessLayer/EmployeesModuleDal/Mappers/EmployeeMapper.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/DataAccessLayer/SupplierDAL/DemandOrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccessLayer/SupplierDAL/DemandOrderMapper.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Presentation/Model/BackendController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Model/BackendController.java" afterDir="false" />
+     </list>
+->>>>>>> bdf07786d7914e9a44e72840001c1bcb4976ee6a
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -53,9 +56,9 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+-    <property name="TODO_SCOPE" value="All Places" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="aspect.path.notification.shown" value="true" />
++    <property name="project.structure.last.edited" value="Modules" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+@@ -70,29 +73,108 @@
+       <recent name="C:\Users\User\Desktop\adss_group_f\dev" />
+     </key>
+   </component>
+-  <component name="RunManager">
+-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Presentation.Main" />
+-      <module name="ADSS_Project_GroupF" />
++  <component name="RunManager" selected="JUnit.StockShortnessControllerTest">
++    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
++      <option name="arquillianRunConfiguration">
++        <value>
++          <option name="containerStateName" value="" />
++        </value>
++      </option>
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="DeliveryControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="dev" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Tests.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="Tests" />
++      <option name="MAIN_CLASS_NAME" value="Tests.DeliveryControllerTest" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="DeliveryFacadeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="dev" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Tests.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="Tests" />
++      <option name="MAIN_CLASS_NAME" value="Tests.DeliveryFacadeTest" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="DeliveryFacadeTest.deleteAllData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="dev" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Presentation.*" />
++          <option name="PATTERN" value="Tests.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
++      <option name="PACKAGE_NAME" value="Tests" />
++      <option name="MAIN_CLASS_NAME" value="Tests.DeliveryFacadeTest" />
++      <option name="METHOD_NAME" value="deleteAllData" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="SiteDocControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="dev" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Tests.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="Tests" />
++      <option name="MAIN_CLASS_NAME" value="Tests.SiteDocControllerTest" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="StockShortnessControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="dev" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Tests.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="Tests" />
++      <option name="MAIN_CLASS_NAME" value="Tests.StockShortnessControllerTest" />
++      <option name="TEST_OBJECT" value="class" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Main" />
++        <item itemvalue="JUnit.StockShortnessControllerTest" />
++        <item itemvalue="JUnit.SiteDocControllerTest" />
++        <item itemvalue="JUnit.DeliveryControllerTest" />
++        <item itemvalue="JUnit.DeliveryFacadeTest" />
++        <item itemvalue="JUnit.DeliveryFacadeTest.deleteAllData" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
++      <changelist id="7bff4f8d-b05e-4987-990d-e6f7d9b1919d" name="Default Changelist" comment="" />
+       <created>1653915674101</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+@@ -109,7 +191,6 @@
+       <workItem from="1654877559632" duration="1638000" />
+       <workItem from="1654931772057" duration="6522000" />
+       <workItem from="1655042819504" duration="232000" />
+-      <workItem from="1655234644630" duration="405000" />
+     </task>
+     <task id="LOCAL-00001" summary="add and remove brances functionality , fix load data of employees">
+       <created>1654679773410</created>
+@@ -194,7 +275,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1655202466328</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="debugging delete order in deliveries">
++      <created>1655221850593</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1655221850593</updated>
++    </task>
++    <task id="LOCAL-00014" summary="updating Requirements final .docx">
++      <created>1655229398160</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1655229398160</updated>
++    </task>
++    <task id="LOCAL-00015" summary="debugging inventory Views">
++      <created>1655234333153</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1655234333153</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -225,14 +327,17 @@
+     <MESSAGE value="add more data to employee module" />
+     <MESSAGE value="fix menus with first init and employee exist" />
+     <MESSAGE value="debugging update order" />
+-    <option name="LAST_COMMIT_MESSAGE" value="debugging update order" />
++    <MESSAGE value="debugging delete order in deliveries" />
++    <MESSAGE value="updating Requirements final .docx" />
++    <MESSAGE value="debugging inventory Views" />
++    <option name="LAST_COMMIT_MESSAGE" value="debugging inventory Views" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/Presentation/View/SupplierView/SupplierMainMenuView.java</url>
+-          <line>42</line>
++          <line>36</line>
+           <option name="timeStamp" value="176" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+@@ -281,32 +386,39 @@
+           <option name="timeStamp" value="255" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Presentation/Model/SupplierModel/SupplierModel.java</url>
+-          <line>420</line>
+-          <option name="timeStamp" value="256" />
++          <url>file://$PROJECT_DIR$/Test/Tests/StockShortnessControllerTest.java</url>
++          <line>32</line>
++          <option name="timeStamp" value="263" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/BusinessLayer/SupplierBusiness/DemandOrder.java</url>
+-          <line>67</line>
+-          <option name="timeStamp" value="257" />
++          <url>file://$PROJECT_DIR$/Test/ApplicationFacadeTest.java</url>
++          <line>24</line>
++          <option name="timeStamp" value="282" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Presentation/View/InventoryView/ReportsMenuView.java</url>
+-          <line>40</line>
+-          <option name="timeStamp" value="260" />
++          <url>file://$PROJECT_DIR$/Test/Tests/DeliveryFacadeTest.java</url>
++          <line>299</line>
++          <option name="timeStamp" value="285" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-method">
++          <url>file://$PROJECT_DIR$/Test/Tests/DeliveryFacadeTest.java</url>
++          <line>117</line>
++          <properties class="Tests.DeliveryFacadeTest" method="getAllRelevantTrucks">
++            <option name="EMULATED" value="true" />
++          </properties>
++          <option name="timeStamp" value="280" />
+         </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+     <pin-to-top-manager>
+       <pinned-members>
+         <PinnedItemInfo parentTag="java.util.concurrent.ConcurrentHashMap$MapEntry" memberName="value" />
+-        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+       </pinned-members>
+     </pin-to-top-manager>
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/dev$Main.ic" NAME="Main Coverage Results" MODIFIED="1654687135270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
++    <SUITE FILE_PATH="coverage/dev$Main.ic" NAME="Main Coverage Results" MODIFIED="1654879373513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+       <FILTER>Presentation.*</FILTER>
+     </SUITE>
+   </component>
